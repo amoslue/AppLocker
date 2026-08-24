@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [androidx.activity:activity:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/2f56f74c1b87ad989dd11ab2e7a3e3bd/transformed/activity-1.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/414658d1758b8c269febde3b1d45fafb/transformed/activity-ktx-1.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/071bbeaeee73fbb51f5e3e9552a9fc11/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/2d2608dbc8568be9a8e8a7bd5c56e6a5/transformed/activity-compose-1.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/b6b9ce667d9985ea5ddb2b6a17ebc9a3/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/7e57ea33f4f3bcb652ad108268477fb9/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/cde188c362af5d8e45e7815cffd3c108/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/5a87cec643e0b2403e3f227a82eee7e9/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/ed4e431ed2072c6a035454993d9c9452/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/0173a52a310b5dd64b5f6e9a20556a0a/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/103db19abfbf6cb26c09cfb54f0ab41c/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/fd063d545102c7400ad73d29375dd2fa/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/5393bd6858e92e9b5a26dbf19f8c848c/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/3b148d56ad5e134359ed56de62961443/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/fe1edb7be66fa03cf60a191564dd3806/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/deae16f18c8f17262d79b512eba1223c/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/e34530a013c9354e3f69c15f52ca2960/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/f75b4876e688680869501118b06062b9/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/58a6f980590cf8e75dff99fb3c13b67c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/8623908c66c0b2eea1dd4f84a244133b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/4177473236193869e8991fceeb2ce0e9/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/15d81149f0ce129b69ff966d1180fc5a/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/c3775f2a83e4804af98437898f48be87/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/b3e868175b922b55e6830e39a893c919/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/6270044951d1dc02aeb0959ead62de66/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/967bc26846a73d18e3cc0371db5b1369/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/262bd3dae1fe7302b3a5ed4c87611908/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/0642214bd38f97835b6b99410c45b2d0/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/be48f7c8431a878082a9855badaf0ac7/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/9a812e30c2ccf6b962f319bd242c13ac/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/a78cf28bd85dcc2adfb724712e0e6454/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/71fca907d41fb53480c8accb9dea0199/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/a8ffb1f09d643df6b3a275363990a6d7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/96e827c84b09165ac6b80f1ddb718ca0/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/7facdf2425e1854ef150b177e6c897f1/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:6:5-114
+	tools:ignore
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:6:76-111
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:8:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:11:5-89
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:11:22-86
+uses-permission#android.permission.INTERNET
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:12:22-64
+queries
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:13:5-18:15
+intent#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:14:9-17:18
+action#android.intent.action.MAIN
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:15:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:16:13-73
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:16:23-70
+application
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:20:5-53:19
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:20:5-53:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/a8ffb1f09d643df6b3a275363990a6d7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/a8ffb1f09d643df6b3a275363990a6d7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:24:9-72
+activity#com.example.focuslock.MainActivity
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:exported
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:29:13-32:29
+service#com.example.focuslock.FocusService
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:35:9-43:19
+	android:enabled
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:38:13-37
+	android:foregroundServiceType
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:36:13-41
+property#android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:40:13-42:100
+	android:value
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:42:17-97
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:41:17-76
+service#com.example.focuslock.WebsiteBlockVpnService
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:47:13-37
+	android:permission
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:48:13-69
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:46:13-51
+intent-filter#action:name:android.net.VpnService
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:49:13-51:29
+action#android.net.VpnService
+ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:50:17-65
+	android:name
+		ADDED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml:50:25-62
+uses-sdk
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/2f56f74c1b87ad989dd11ab2e7a3e3bd/transformed/activity-1.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/2f56f74c1b87ad989dd11ab2e7a3e3bd/transformed/activity-1.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/414658d1758b8c269febde3b1d45fafb/transformed/activity-ktx-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/414658d1758b8c269febde3b1d45fafb/transformed/activity-ktx-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/071bbeaeee73fbb51f5e3e9552a9fc11/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/071bbeaeee73fbb51f5e3e9552a9fc11/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/2d2608dbc8568be9a8e8a7bd5c56e6a5/transformed/activity-compose-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/2d2608dbc8568be9a8e8a7bd5c56e6a5/transformed/activity-compose-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/b6b9ce667d9985ea5ddb2b6a17ebc9a3/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/b6b9ce667d9985ea5ddb2b6a17ebc9a3/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/7e57ea33f4f3bcb652ad108268477fb9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/7e57ea33f4f3bcb652ad108268477fb9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/cde188c362af5d8e45e7815cffd3c108/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/cde188c362af5d8e45e7815cffd3c108/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/5a87cec643e0b2403e3f227a82eee7e9/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/5a87cec643e0b2403e3f227a82eee7e9/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/ed4e431ed2072c6a035454993d9c9452/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/ed4e431ed2072c6a035454993d9c9452/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/0173a52a310b5dd64b5f6e9a20556a0a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/0173a52a310b5dd64b5f6e9a20556a0a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/103db19abfbf6cb26c09cfb54f0ab41c/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/103db19abfbf6cb26c09cfb54f0ab41c/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/fd063d545102c7400ad73d29375dd2fa/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/fd063d545102c7400ad73d29375dd2fa/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/5393bd6858e92e9b5a26dbf19f8c848c/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/5393bd6858e92e9b5a26dbf19f8c848c/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/3b148d56ad5e134359ed56de62961443/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/3b148d56ad5e134359ed56de62961443/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/fe1edb7be66fa03cf60a191564dd3806/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/fe1edb7be66fa03cf60a191564dd3806/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/deae16f18c8f17262d79b512eba1223c/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/deae16f18c8f17262d79b512eba1223c/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/e34530a013c9354e3f69c15f52ca2960/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/e34530a013c9354e3f69c15f52ca2960/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/f75b4876e688680869501118b06062b9/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/f75b4876e688680869501118b06062b9/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/58a6f980590cf8e75dff99fb3c13b67c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/58a6f980590cf8e75dff99fb3c13b67c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/8623908c66c0b2eea1dd4f84a244133b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/8623908c66c0b2eea1dd4f84a244133b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/4177473236193869e8991fceeb2ce0e9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/4177473236193869e8991fceeb2ce0e9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/15d81149f0ce129b69ff966d1180fc5a/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/15d81149f0ce129b69ff966d1180fc5a/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/c3775f2a83e4804af98437898f48be87/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/c3775f2a83e4804af98437898f48be87/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/b3e868175b922b55e6830e39a893c919/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/b3e868175b922b55e6830e39a893c919/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/6270044951d1dc02aeb0959ead62de66/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/6270044951d1dc02aeb0959ead62de66/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/967bc26846a73d18e3cc0371db5b1369/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/967bc26846a73d18e3cc0371db5b1369/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/262bd3dae1fe7302b3a5ed4c87611908/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/262bd3dae1fe7302b3a5ed4c87611908/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/0642214bd38f97835b6b99410c45b2d0/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/0642214bd38f97835b6b99410c45b2d0/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/be48f7c8431a878082a9855badaf0ac7/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/be48f7c8431a878082a9855badaf0ac7/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/9a812e30c2ccf6b962f319bd242c13ac/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/9a812e30c2ccf6b962f319bd242c13ac/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/a78cf28bd85dcc2adfb724712e0e6454/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /Users/amoslue/.gradle/caches/8.14.1/transforms/a78cf28bd85dcc2adfb724712e0e6454/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/71fca907d41fb53480c8accb9dea0199/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/71fca907d41fb53480c8accb9dea0199/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/a8ffb1f09d643df6b3a275363990a6d7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/a8ffb1f09d643df6b3a275363990a6d7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/96e827c84b09165ac6b80f1ddb718ca0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/96e827c84b09165ac6b80f1ddb718ca0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/7facdf2425e1854ef150b177e6c897f1/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/7facdf2425e1854ef150b177e6c897f1/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amoslue/MyProj/FocusLockApp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/530b38189dddcea92120213b892373e5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/amoslue/.gradle/caches/8.14.1/transforms/fda49e149f3441aba6715c3262888899/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.focuslock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.focuslock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/027deb8104b380e9fd690a54a3756a34/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/amoslue/.gradle/caches/8.14.1/transforms/319ee5755697e9fd0aec6383687b6159/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/amoslue/.gradle/caches/8.14.1/transforms/f0fe7610eb871305e6edcb1a117e11f1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
